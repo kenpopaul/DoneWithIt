@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Kalen is awesome ......</Text>
-      <Text>Kalen is great when he's part of a team</Text>
+      <Text>Kalen is great when he's part of a</Text>
       <Text>I'm Blue da ba de </Text>
       <Text>da ba de dab a dee</Text>
       <StatusBar style="auto" />
